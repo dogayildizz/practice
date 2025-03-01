@@ -1,0 +1,14 @@
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\bin\Debug\net8.0\CAOOPPratik.UI.exe
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\bin\Debug\net8.0\CAOOPPratik.UI.deps.json
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\bin\Debug\net8.0\CAOOPPratik.UI.runtimeconfig.json
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\bin\Debug\net8.0\CAOOPPratik.UI.dll
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\bin\Debug\net8.0\CAOOPPratik.UI.pdb
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\obj\Debug\net8.0\CAOOPPratik.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\obj\Debug\net8.0\CAOOPPratik.UI.AssemblyInfoInputs.cache
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\obj\Debug\net8.0\CAOOPPratik.UI.AssemblyInfo.cs
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\obj\Debug\net8.0\CAOOPPratik.UI.csproj.CoreCompileInputs.cache
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\obj\Debug\net8.0\CAOOPPratik.UI.dll
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\obj\Debug\net8.0\refint\CAOOPPratik.UI.dll
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\obj\Debug\net8.0\CAOOPPratik.UI.pdb
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\obj\Debug\net8.0\CAOOPPratik.UI.genruntimeconfig.cache
+C:\Users\dogas\OneDrive\Masaüstü\BilgeAdam\Kendi çalışmalarım\CAOOPPratik\CAOOPPratik.UI\obj\Debug\net8.0\ref\CAOOPPratik.UI.dll
